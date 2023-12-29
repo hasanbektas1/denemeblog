@@ -3,4 +3,5 @@ import 'package:miniblogstudy/screens/home_page.dart';
 
 void main() {
   runApp(const MaterialApp(home: Homepage()));
+  //Soner Bedir
 }
